@@ -1,0 +1,11 @@
+{
+    "name": "Nuxt3Auth",
+    "version": "1.0.0",
+    "description": "JWT Nuxt3 Auth(included Signup, Login, Logout, EmailVerify, Middleware)",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Benjamin-w",
+    "license": "MIT"
+  }
